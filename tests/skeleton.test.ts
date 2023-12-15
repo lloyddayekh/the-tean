@@ -1,4 +1,3 @@
-// Import necessary dependencies
 import '@testing-library/jest-dom'
 import { render, screen } from '@testing-library/react'
 import Skeleton from '@/components/skeleton'
